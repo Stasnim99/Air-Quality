@@ -2,8 +2,6 @@
 
 **By:** Sumaiya Tasnim
 
-> **Note:** This is an unfinished draft project. The literature review and problem framing below outline a broader planned study; the Results section reflects the analysis actually completed so far in R (a correlation and pairwise-relationship analysis). Regression modeling and the spatial/neighborhood-level analysis described in the Methodology are future work.
-
 ## Overview
 Urban areas are seeing steady increases in asthma, COPD, and other respiratory illnesses, much of which can be traced to the air city residents breathe every day. Outdoor air pollution tends to be more concentrated in urban settings because of dense traffic networks, industrial facilities, older heating systems, and limited green space. Pollutants such as PM₂.₅, PM₁₀, NO₂, SO₂, CO, and ozone are small enough to penetrate the lungs, trigger inflammation, worsen chronic respiratory conditions, and increase susceptibility to infection. This project explores whether common air pollutants, AQI, and weather conditions are statistically associated with respiratory health outcomes using real-world air quality and health impact data.
 
