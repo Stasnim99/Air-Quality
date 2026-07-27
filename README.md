@@ -5,7 +5,7 @@
 ## Overview
 Urban areas are seeing steady increases in asthma, COPD, and other respiratory illnesses, much of which can be traced to the air city residents breathe every day. Outdoor air pollution tends to be more concentrated in urban settings because of dense traffic networks, industrial facilities, older heating systems, and limited green space. Pollutants such as PM₂.₅, PM₁₀, NO₂, SO₂, CO, and ozone are small enough to penetrate the lungs, trigger inflammation, worsen chronic respiratory conditions, and increase susceptibility to infection. This project explores whether common air pollutants, AQI, and weather conditions are statistically associated with respiratory health outcomes using real-world air quality and health impact data.
 
-## Introduction & Problem Statement
+## Introduction & Problem Statement 
 A large body of research has documented how sensitive respiratory health is to changes in air pollution:
 
 - **Bell et al. (2007)** found that even modest increases in particulate matter led to noticeable spikes in asthma attacks and emergency department visits.
