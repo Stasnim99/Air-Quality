@@ -38,13 +38,13 @@ The portion of the study actually implemented in R uses an urban air quality/hea
 
 The correlation matrix revealed that **AQI had the strongest relationship with the health impact score (r = 0.615)** — a moderately strong positive association, meaning that as overall air quality worsens, respiratory health impacts increase. Individual pollutants showed weaker positive correlations: PM₂.₅ (r = 0.220), PM₁₀ (r = 0.183), O₃ (r = 0.158), NO₂ (r = 0.124), and SO₂ (r ≈ 0.016). Weather variables (temperature, humidity, wind speed) showed correlations close to zero, indicating no strong direct relationship with the health impact score in this dataset.
 
-![Correlation matrix of pollutants, AQI, weather, and health impact score](air-quality-images/airquality-correlation-matrix.png)
+![Correlation matrix of pollutants, AQI, weather, and health impact score](airquality-correlation-matrix.png)
 
 **Console output.** Pearson correlation matrix across AQI, individual pollutants (PM10, PM2.5, NO2, SO2, O3), weather variables, and the health impact score.
 
 The pairwise scatterplot matrix supported these findings — most variable pairs showed dense, cloud-like distributions with no clear linear pattern, consistent with the low correlation values. The AQI–health impact relationship stood out as the clearest trend among the variables analyzed.
 
-![Pairwise scatterplot matrix of pollutants and AQI](air-quality-images/airquality-pairwise-scatterplot.png)
+![Pairwise scatterplot matrix of pollutants and AQI](airquality-pairwise-scatterplot.png)
 
 **Pairwise scatterplot matrix (`GGally::ggpairs`).** Relationships among record ID, AQI, PM10, and temperature, with correlation coefficients annotated in each panel.
 
